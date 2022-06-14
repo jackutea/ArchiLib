@@ -1,0 +1,24 @@
+{
+    "name": "com.jack.archilib",
+    "version": "1.0.0",
+    "description": "自建库",
+    "displayName": "archilib",
+    "unity": "2019.4",
+    "author": {
+      "name": "杰克有茶",
+      "email": "chenwansal1@163.com",
+      "url": "https://github.com/chenwansal/JackFrame"
+    },
+    "changelogUrl": "",
+    "dependencies": {
+    },
+    "documentationUrl": "",
+    "hideInEditor": false,
+    "keywords": [
+      "jackframe"
+    ],
+    "license": "",
+    "licensesUrl": "",
+    "samples": [],
+    "unityRelease": "16f1"
+  }
