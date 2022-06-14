@@ -6,3 +6,5 @@ file:///E:/2021.3.0f1c1/Editor/Data/Documentation/en/Manual/CustomPackages.html
 
 添加UPM方式
 ssh://git@github.com/chenwansal/ArchiLib.git?path=/Assets/com.jack.archilib#master
+
+所有程序员，都要有其自己的库。
