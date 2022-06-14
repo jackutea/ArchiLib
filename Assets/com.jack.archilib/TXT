@@ -3,3 +3,6 @@ A：它是一个持久的积累，呈现指数级增长，随着库的增长，�
 
 UPM(Unity Package Manager)
 file:///E:/2021.3.0f1c1/Editor/Data/Documentation/en/Manual/CustomPackages.html
+
+添加UPM方式
+ssh://git@github.com/chenwansal/ArchiLib.git?path=/Assets/com.jack.archilib#master
